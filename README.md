@@ -8,3 +8,25 @@ The [Netflix Prize Shows Information (9000 Shows)](https://www.kaggle.com/datase
 ## Power BI Dashboard
 ![IMDb_page-0001](https://github.com/karlyndiary/IMDb-Data-Analysis/assets/116041695/30b92dd9-469d-498a-b448-6b8f1f66c23a)
 ![IMDb_page-0002](https://github.com/karlyndiary/IMDb-Data-Analysis/assets/116041695/e96f32a5-2057-4fa9-a7bc-1ea05c6f9782)
+
+
+
+
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
